@@ -5,5 +5,6 @@ The project includes test for
 - Strings
 - Numbers
 - Arrays
+- Objects
 
 
